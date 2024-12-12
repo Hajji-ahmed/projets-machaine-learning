@@ -1,0 +1,1 @@
+ech "print('Bonjour le monde')">main.py
